@@ -1,24 +1,24 @@
-Raesfeld: 
-Flughafen: 
-Berlin: 
-Bratwurst: 
-Hauptstrasse: 
-Brot: 
-Klimaanlage: 
-Rammstein: 
-Porsche:
-BMW: 
-Biergarten: 
-Ratskeller: 
-Dirndel: 
-Lederhose: 
-Schloss: 
-wettbewerbsfaehig: 
-Mehlhase: 
-Gebaeck:
-Baeckerei: 
-Hund: 
-Doener: 
-Apfelkuchen: 
-Schloss:
-Eltz:
+Raesfeld: Raesfeld
+Flughafen: Airport
+Berlin: Berlin
+Bratwurst: Bratwurst/sausage
+Hauptstrasse: Main street
+Brot: Bread
+Klimaanlage: Air conditioner 
+Rammstein: Rammstein
+Porsche: Porsche
+BMW: BMW
+Biergarten: Beer garden
+Ratskeller: Basement of the town hall / town hall cellar
+Dirndel: Drindl (traditional dress)
+Lederhose: leather pants
+Schloss: Castle
+wettbewerbsfaehig: Competitive 
+Mehlhase: Asu professor name / dish made from flour and hare
+Gebaeck: Pastry
+Baeckerei: Bakery
+Hund: Dog
+Doener: Doner (type of kebab)
+Apfelkuchen: Apple cake
+Schloss: Castle / Palace
+Eltz: Eltz
